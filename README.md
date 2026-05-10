@@ -177,6 +177,15 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavydGromosiak&show_icons=true&theme=github_dark&hide_border=true" alt="Davyd's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
 ## ⚡ Fun fact
 
 I started my programming journey with game development in Unity, and now I'm moving step by step toward Full Stack Development.

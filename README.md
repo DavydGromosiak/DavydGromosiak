@@ -1,9 +1,16 @@
-# Hi there, I'm Davyd 👋
+<p align="center">
+  <img width="500" alt="Programming banner" src="https://github.com/user-attachments/assets/935d6ea1-d5af-4c95-94c1-876ece09cbf6" />
+</p>
 
-I'm a beginner Frontend Developer from Ukraine, currently living in Germany 🇩🇪  
-I'm learning Full Stack Development step by step and building projects to improve my skills.
+<h1 align="center">Hi there, I'm Davyd 👋</h1>
 
-I enjoy creating clean website layouts, working with Figma designs, writing structured code, and learning how real web applications are built.
+<p align="center">
+  Beginner Frontend Developer from Ukraine, currently living in Germany 🇩🇪
+</p>
+
+<p align="center">
+  I'm learning Full Stack Development step by step and building projects to improve my skills.
+</p>
 
 ---
 
@@ -24,12 +31,12 @@ I enjoy creating clean website layouts, working with Figma designs, writing stru
 
 ### Full Stack Development — GoITeens Academy
 
-I'm currently studying Full Stack Development and focusing on modern web technologies, frontend development, responsive layouts, JavaScript, and later backend development.
+I'm currently studying Full Stack Development and focusing on frontend development, responsive layouts, JavaScript, and later backend development.
 
 ### Game Development — GoITeens School
 
 I completed a Game Development course where I worked with C# and Unity.  
-During this course, I learned how to create 2D and 3D games, work with game objects, scenes, basic mechanics and Unity tools.
+I learned how to create 2D and 3D games, work with scenes, game objects, basic mechanics and Unity tools.
 
 Right now, I spend most of my time learning Full Stack Development, but my game development background helps me understand logic, structure and problem-solving better.
 
@@ -77,9 +84,9 @@ Right now my main focus is:
 
 | Project | Technologies | Repository |
 |---|---|---|
-| Mini Project 1 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
-| Mini Project 2 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-2-html) |
-| Mini Project 3 | HTML / CSS / JavaScript | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-3-html) |
+| GoITeens Mini Project 1 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
+| GoITeens Mini Project 2 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-2-html) |
+| GoITeens Mini Project 3 | HTML / CSS / JavaScript | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-3-html) |
 
 ---
 
@@ -115,9 +122,17 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 
 ## 📫 Contact me
 
-[![GitHub](https://img.shields.io/badge/GitHub-DavydGromosiak-181717?style=for-the-badge&logo=github)](https://github.com/DavydGromosiak)
-[![Instagram](https://img.shields.io/badge/Instagram-shaini.dg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaini.dg/)
-[![Email](https://img.shields.io/badge/Email-davyd.gromosiak%40icloud.com-0078D4?style=for-the-badge&logo=icloud&logoColor=white)](mailto:davyd.gromosiak@icloud.com)
+<p>
+  <a href="https://github.com/DavydGromosiak">
+    <img src="https://img.shields.io/badge/GitHub-DavydGromosiak-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/shaini.dg/">
+    <img src="https://img.shields.io/badge/Instagram-shaini.dg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:davyd.gromosiak@icloud.com">
+    <img src="https://img.shields.io/badge/Email-davyd.gromosiak%40icloud.com-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 Telegram: `@ShainiDG`
 

@@ -178,8 +178,7 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 ---
 
 ## 📊 GitHub Stats
-
-![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavydGromosiak&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DavydGromosiak=anuraghazra&hide=contribs,prs)
 
 
 ---

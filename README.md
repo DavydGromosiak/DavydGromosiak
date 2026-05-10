@@ -181,8 +181,19 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&layout=compact&theme=default&hide_border=true&langs_count=6"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Most used languages" />
+  </picture>
 </p>
+
 
 ---
 

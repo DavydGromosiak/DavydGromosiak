@@ -60,11 +60,12 @@ Right now, I spend most of my time learning Full Stack Development, but my game 
   <img src="https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid" />
 </p>
 
-### Game Development Background
+### 3D & Game Development Background
 
 <p>
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Blender-Basic%203D%20Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 ### Tools

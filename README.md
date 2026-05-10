@@ -82,11 +82,11 @@ Right now my main focus is:
 
 ## 🚀 Projects
 
-| Project | Technologies | Repository |
-|---|---|---|
-| GoITeens Mini Project 1 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
-| GoITeens Mini Project 2 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-2-html) |
-| GoITeens Mini Project 3 | HTML / CSS / JavaScript | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-3-html) |
+| Project | Description | Technologies | Links |
+|---|---|---|---|
+| GoITeens Mini Project 1 | Simple HTML/CSS learning project | HTML / CSS | [Code](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
+| GoITeens Mini Project 2 | Responsive layout practice | HTML / CSS | [Code](https://github.com/DavydGromosiak/-goiteens-mini-project-2-html) |
+| GoITeens Mini Project 3 | HTML/CSS project with JavaScript basics | HTML / CSS / JavaScript | [Code](https://github.com/DavydGromosiak/-goiteens-mini-project-3-html) · [Live Demo](https://html-mini-project-3.netlify.app/) |
 
 ---
 

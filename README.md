@@ -177,12 +177,6 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 
 ---
 
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DavydGromosiak=anuraghazra&hide=contribs,prs)
-
-
----
-
 ## ⚡ Fun fact
 
 I started my programming journey with game development in Unity, and now I'm moving step by step toward Full Stack Development.

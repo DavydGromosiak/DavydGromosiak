@@ -54,7 +54,7 @@ Right now my main focus is:
 
 | Project | Technologies | Repository |
 |---|---|---|
-| Mini Project 1 | HTML | [View repository](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
+| Mini Project 1 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
 | Mini Project 2 | HTML / CSS | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-2-html) |
 | Mini Project 3 | HTML / CSS / JavaScript | [View repository](https://github.com/DavydGromosiak/-goiteens-mini-project-3-html) |
 

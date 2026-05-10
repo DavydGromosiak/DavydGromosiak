@@ -33,7 +33,7 @@
 
 I'm currently studying Full Stack Development and focusing on frontend development, responsive layouts, JavaScript, and later backend development.
 
-### Game Development — GoITeens School
+### Game Development — [GoITeens School](https://gamedev.goiteens.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_programming_courses_europe&utm_term=programming-courses&gad_source=1&gad_campaignid=20472312414&gbraid=0AAAAAqHR3Nm1u_wz9Sh3HtYHuH7_ty4qM&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeScXOvhTpdl6JvU6URaAScIzvRwqOvXSrFDKX5eW6SMJ7wdJRumEKoIaAjmvEALw_wcB) 
 
 I completed a Game Development course where I worked with C# and Unity.  
 I learned how to create 2D and 3D games, work with scenes, game objects, basic mechanics and Unity tools.

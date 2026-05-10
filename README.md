@@ -116,7 +116,7 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 
 - Ukrainian — native
 - German — B2
-- English — С1
+- English — B2
 
 ---
 

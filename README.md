@@ -1,30 +1,52 @@
 # Hi there, I'm Davyd 👋
 
 I'm a beginner Frontend Developer from Ukraine, currently living in Germany 🇩🇪  
-I'm learning web development step by step and building projects to improve my skills.
+I'm learning Full Stack Development step by step and building projects to improve my skills.
 
-I enjoy creating clean website layouts, working with Figma designs, and writing structured, readable code.
+I enjoy creating clean website layouts, working with Figma designs, writing structured code, and learning how real web applications are built.
 
 ---
 
 ## 🧑‍💻 About me
 
-- 🌱 Currently learning Frontend Development
+- 🌱 Currently learning Full Stack Development
 - 💻 Working with HTML, CSS, JavaScript and GitHub
 - 🎨 Practicing Figma to HTML/CSS layouts
-- 🚀 Goal: become a Full Stack Developer
-- 📚 Studying at GoITeens and Berufsschule
+- 🎮 Completed a Game Development course at GoITeens School
+- 🕹️ Have experience with C#, Unity, 2D and 3D game development
+- 🚀 Goal: become a Full Stack Developer by 2027–2028
+- 📚 Studying Full Stack Development at GoITeens Academy
 - 🌍 Based in Germany
+
+---
+
+## 🎓 Education & Background
+
+### Full Stack Development — GoITeens Academy
+
+I'm currently studying Full Stack Development and focusing on modern web technologies, frontend development, responsive layouts, JavaScript, and later backend development.
+
+### Game Development — GoITeens School
+
+I completed a Game Development course where I worked with C# and Unity.  
+During this course, I learned how to create 2D and 3D games, work with game objects, scenes, basic mechanics and Unity tools.
+
+Right now, I spend most of my time learning Full Stack Development, but my game development background helps me understand logic, structure and problem-solving better.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Markup
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Game Development Background
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Tools
 
@@ -47,6 +69,7 @@ Right now my main focus is:
 - Responsive design
 - JavaScript basics
 - Git and GitHub workflow
+- Figma to HTML/CSS practice
 
 ---
 
@@ -60,14 +83,25 @@ Right now my main focus is:
 
 ---
 
-## 📈 Goals for 2026
+## 🧭 Roadmap
 
-- Build more real frontend projects
-- Improve my JavaScript skills
-- Learn modern frontend tools
-- Create responsive and clean websites
-- Start learning backend development step by step
-- Become more confident as a future Full Stack Developer
+My main goal is to become a Full Stack Developer by 2027–2028.
+
+### 2026
+
+- Build more frontend projects
+- Improve HTML, CSS and JavaScript skills
+- Learn responsive design better
+- Practice Git and GitHub workflow
+- Start learning modern frontend tools
+
+### 2027–2028
+
+- Learn React and modern frontend development
+- Start backend development
+- Build full stack projects
+- Improve problem-solving skills
+- Become confident with real-world development
 
 ---
 
@@ -91,4 +125,4 @@ Telegram: `@ShainiDG`
 
 ## ⚡ Fun fact
 
-I started learning web development from small HTML pages, and now I'm moving step by step toward real frontend projects.
+I started my programming journey with game development in Unity, and now I'm moving step by step toward Full Stack Development.

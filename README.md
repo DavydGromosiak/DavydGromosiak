@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Davyd 👋</h1>
 
 <p align="center">
-  Beginner Frontend Developer from Ukraine, currently living in Germany 🇩🇪
+  🇺🇦 Beginner Frontend Developer from Ukraine, currently living in Germany 🇩🇪
 </p>
 
 <p align="center">

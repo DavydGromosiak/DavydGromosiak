@@ -29,7 +29,7 @@
 
 ## 🎓 Education & Background
 
-### Full Stack Development — GoITeens Academy
+### Full Stack Development — [GoITeens Academy](https://goiteens-presentation.framer.website/frontend-pro/group)
 
 I'm currently studying Full Stack Development and focusing on frontend development, responsive layouts, JavaScript, and later backend development.
 

@@ -170,6 +170,9 @@ My main goal is to become a Full Stack Developer by 2027–2028.
   <a href="https://t.me/ShainiDG">
     <img src="https://img.shields.io/badge/Telegram-@ShainiDG-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://discord.com/users/1229508026180833382">
+    <img src="https://img.shields.io/badge/Discord-shaini.dg-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---

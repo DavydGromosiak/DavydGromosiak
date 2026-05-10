@@ -107,7 +107,7 @@ Right now my main focus is:
 
 ---
 
-## 🚀 Projects
+## 🚀 Project HTML / CSS 
 
 | Project HTML / CSS | Description | Technologies | Links |
 |---|---|---|---|

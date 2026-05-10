@@ -82,7 +82,7 @@ Right now my main focus is:
 
 ## 🚀 Projects
 
-| Project | Description | Technologies | Links |
+| Project HTML / CSS | Description | Technologies | Links |
 |---|---|---|---|
 | GoITeens Mini Project 1 | Simple HTML/CSS learning project | HTML / CSS | [Code](https://github.com/DavydGromosiak/goiteens-mini-project-1-html) |
 | GoITeens Mini Project 2 | Responsive layout practice | HTML / CSS | [Code](https://github.com/DavydGromosiak/-goiteens-mini-project-2-html) |

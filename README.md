@@ -179,9 +179,19 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavydGromosiak&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Davyd's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <img 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=DavydGromosiak&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true" 
+    alt="Davyd's GitHub stats" 
+  />
+  <img 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydGromosiak&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=6" 
+    alt="Top languages" 
+  />
 </p>
 
 

@@ -177,7 +177,6 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 

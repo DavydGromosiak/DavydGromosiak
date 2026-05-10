@@ -1,7 +1,7 @@
 # Hi there, I'm Davyd 👋
 
-I'm a beginner Frontend Developer from Germany 🇩🇪  
-Currently learning HTML, CSS, JavaScript and GitHub.
+I'm a beginner Frontend Developer from Ukraine, currently living in Germany 🇩🇪  
+I'm learning HTML, CSS, JavaScript and GitHub.
 
 I like building clean and responsive websites, practicing with Figma designs, and improving my coding skills step by step.
 
@@ -13,7 +13,7 @@ I like building clean and responsive websites, practicing with Figma designs, an
 - 💻 I’m working with HTML, CSS and GitHub
 - 🎨 I practice website layouts from Figma
 - 🚀 My goal is to become a Full Stack Developer
-- 📚 I’m studying at GoITeens / Berufsschule
+- 📚 I’m studying at GoITeens and Berufsschule
 - 🌍 Based in Germany
 
 ---
@@ -56,10 +56,11 @@ Here are some projects I’m working on:
 You can contact me here:
 
 - GitHub: [@DavydGromosiak](https://github.com/DavydGromosiak)
-- Instagram: [Intagram](https://www.instagram.com/shaini.dg?)
-- Email: [My Email](davyd.gromosiak@icloud.com)
+- Instagram: [@shaini.dg](https://www.instagram.com/shaini.dg/)
+- Email: [davyd.gromosiak@icloud.com](mailto:davyd.gromosiak@icloud.com)
+
 ---
 
 ## ⚡ Fun fact
 
-I started learning web development step by step and I’m improving every week.
+I started learning web development step by step, and I’m improving every week.

@@ -134,6 +134,7 @@ Later in the course, I will continue with:
 - Next.js basics
 - Redux basics
 - Backend basics
+- Java basics
 - Authentication and deployment
 - Full Stack team projects
 

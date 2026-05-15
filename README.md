@@ -150,7 +150,7 @@ Later in the course, I will continue with:
 
 ## 🧭 Roadmap
 
-My main goal is to become a Full Stack Developer by 2027–2028.
+My main goal is to improve my development skills and move toward Cybersecurity, IT Security and Software Development.
 
 ### 2026
 
@@ -159,12 +159,14 @@ My main goal is to become a Full Stack Developer by 2027–2028.
 - Learn responsive design better
 - Practice Git and GitHub workflow
 - Start learning modern frontend tools
+- Learn networking and IT basics
 
 ### 2027–2028
 
 - Learn React and modern frontend development
 - Start backend development
 - Build full stack projects
+- Explore Cybersecurity and IT Security basics
 - Improve problem-solving skills
 - Become confident with real-world development
 

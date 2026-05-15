@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Next.js%20Basics-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Basics" />
   <img src="https://img.shields.io/badge/Redux%20Basics-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Basics" />
   <img src="https://img.shields.io/badge/Backend%20Basics-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Basics" />
+  <img src="https://img.shields.io/badge/Java%20Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Basics" />
 </p>
 
 ### GameDev Background

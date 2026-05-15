@@ -30,6 +30,32 @@
 - 🌍 Based in Germany
 ---
 
+## 🎓 Education & Background
+
+### Berufsschule — Germany
+
+I'm currently studying at a Berufsschule in Germany and preparing for the Fachinformatiker path in IT.
+
+This helps me improve my technical knowledge, programming basics, problem-solving skills and understanding of the IT field in Germany.
+
+### Full Stack Development — [GoITeens Academy](https://goiteens-presentation.framer.website/frontend-pro/group)
+
+I'm currently studying Full Stack Development and focusing on frontend development, responsive layouts, JavaScript, and later backend development.
+
+### Game Development — [GoITeens School](https://gamedev.goiteens.com/)
+
+I completed a Game Development course where I worked with **C#**, **Unity** and basic **3D modeling**.
+
+During the course, I learned programming fundamentals such as variables, data types, conditions, loops, arrays, methods and basic OOP concepts.
+
+I also practiced Unity development: working with scenes, game objects, components, physics, layers, collisions, UI Canvas, animations, sounds, textures, materials and basic game mechanics.
+
+The course included personal and team projects, which helped me improve logical thinking, problem-solving, planning, communication and teamwork skills.
+
+Right now, I spend most of my time learning Full Stack Development, but my game development background helps me understand code logic, structure and project-based development better.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend Development

@@ -17,17 +17,25 @@
 ## 🧑‍💻 About me
 
 - 🌱 Currently learning Full Stack Development
+- 🏫 Studying at a Berufsschule in Germany
+- 🎓 Preparing for the Fachinformatiker career path in IT
 - 💻 Working with HTML, CSS, JavaScript and GitHub
 - 🎨 Practicing Figma to HTML/CSS layouts
+- 📚 Studying Full Stack Development at GoITeens Academy
 - 🎮 Completed a Game Development course at GoITeens School
 - 🕹️ Have experience with C#, Unity, 2D/3D game development and basic Blender modeling
 - 🚀 Goal: become a Full Stack Developer by 2027–2028
-- 📚 Studying Full Stack Development at GoITeens Academy
 - 🌍 Based in Germany
 
 ---
 
 ## 🎓 Education & Background
+
+### Berufsschule — Germany
+
+I'm currently studying at a Berufsschule in Germany and preparing for the Fachinformatiker path in IT.
+
+This helps me improve my technical knowledge, programming basics, problem-solving skills and understanding of the IT field in Germany.
 
 ### Full Stack Development — [GoITeens Academy](https://goiteens-presentation.framer.website/frontend-pro/group)
 

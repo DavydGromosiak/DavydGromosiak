@@ -24,9 +24,10 @@
 - 📚 Studying Full Stack Development at GoITeens Academy
 - 🎮 Completed a Game Development course at GoITeens School
 - 🕹️ Have experience with C#, Unity, 2D/3D game development and basic Blender modeling
-- 🚀 Goal: become a Full Stack Developer by 2027–2028
+- 🛡️ Interested in Cybersecurity and Software Development
+- 🎓 Planning to study Cybersecurity / IT Security or Software Development at university in the future
+- 🚀 Goal: build a strong Full Stack foundation and move toward Cybersecurity, IT Security and Software Development
 - 🌍 Based in Germany
-
 ---
 
 ## 🎓 Education & Background

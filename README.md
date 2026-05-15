@@ -25,8 +25,8 @@
 - 🎮 Completed a Game Development course at GoITeens School
 - 🕹️ Have experience with C#, Unity, 2D/3D game development and basic Blender modeling
 - 🛡️ Interested in Cybersecurity and Software Development
-- 🎓 Planning to study Cybersecurity / IT Security or Software Development at university in the future
-- 🚀 Goal: build a strong Full Stack foundation and move toward Cybersecurity, IT Security and Software Development
+- 🧭 Planning to study Cybersecurity / IT Security or Software Development at university in the future
+- 🚀 Goal: improve my Full Stack skills and move toward Cybersecurity and Software Development
 - 🌍 Based in Germany
 ---
 

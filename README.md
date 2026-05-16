@@ -166,7 +166,7 @@ Later in the course, I will continue with:
 
 ---
 
-## 🚀 Project HTML / CSS 
+## 🚀 Project HTML / CSS - First Semestr
 
 | Project HTML / CSS | Description | Technologies | Links |
 |---|---|---|---|
